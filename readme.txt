@@ -1,6 +1,6 @@
 Readme 
 
-Run python evaluator.py arg
+Run python evaluator_code.py arg
 
 arg:-
 1 => Random Bot v/s Our Bot
